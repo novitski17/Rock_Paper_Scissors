@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Asus\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Asus\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Asus\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Asus\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Rock_Paper_Scissors.469908413.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Asus\source\repos\Rock_Paper_Scissors" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Rock_Paper_Scissors" t="IncludeRecursive">
+        <e p="AllMoves.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataVerification.cs" t="Include" />
+        <e p="DeterminationWinner.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RandomnessGeneration.cs" t="Include" />
+        <e p="Rock_Paper_Scissors.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Rock_Paper_Scissors.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

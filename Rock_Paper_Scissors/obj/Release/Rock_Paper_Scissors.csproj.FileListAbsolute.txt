@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Release\Rock_Paper_Scissors.exe.config
+C:\Users\Asus\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Release\Rock_Paper_Scissors.exe
+C:\Users\Asus\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Release\Rock_Paper_Scissors.pdb
+C:\Users\Asus\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Release\Rock_Paper_Scissors.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Release\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Release\Rock_Paper_Scissors.exe
+C:\Users\Asus\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Release\Rock_Paper_Scissors.pdb
