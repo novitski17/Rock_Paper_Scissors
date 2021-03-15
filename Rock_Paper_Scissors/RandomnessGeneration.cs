@@ -35,7 +35,12 @@ namespace Rock_Paper_Scissors
 
         public int ComputerMove(int count)
         {
+
+            Console.WriteLine();
             return randomMoveComputer.Next(1, count);
         }
+
+
+
     }
 }
