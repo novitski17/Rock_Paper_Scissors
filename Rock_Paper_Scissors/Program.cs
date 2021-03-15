@@ -8,6 +8,9 @@ namespace Rock_Paper_Scissors
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine();
+
             AllMoves allMoves = new AllMoves();
             DataVerification verification = new DataVerification();
             RandomnessGeneration generationMoveAndKey = new RandomnessGeneration();
